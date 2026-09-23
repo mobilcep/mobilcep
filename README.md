@@ -27,6 +27,27 @@ kod ajanına, doğrulanmış testlerden açık kaynak uygulama marketine.
 - 🔒 **Veriler Türkiye'de** — KVKK uyumlu, çift sunucu altyapısı
 - 🤝 **Kontrol sende** — ajan önerir, sen onaylarsın; her adım kayıtlı ve geri alınabilir
 
+## ✨ Ürünlerimiz
+
+<table>
+<tr>
+<td width="50%"><a href="https://numexai.com.tr"><img src="assets/kart-numexai.png" alt="Numex AI"></a>
+<b>💬 Numex AI</b> — Türkçe düşünen yapay zekâ. Sohbet, kod, belge analizi, web araması, <code>@FatmaAna</code> gibi karakterler, Detective Mode™.<br>
+👉 <a href="https://numexai.com.tr"><b>numexai.com.tr</b></a> — kayıt olmadan dene</td>
+<td width="50%"><a href="https://okul.numexai.com.tr"><img src="assets/kart-okul.png" alt="Numex Okul"></a>
+<b>🎓 Numex Okul</b> — Bir yapay zekâ soruyu yazar, ikincisi bağımsız çözer; uyuşmayan soru elenir. LGS, TYT, AYT, ehliyet.<br>
+👉 <a href="https://okul.numexai.com.tr"><b>okul.numexai.com.tr</b></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://market.numexai.com.tr"><img src="assets/kart-market.png" alt="Numex Market"></a>
+<b>🛍️ Numex Market</b> — Numex'in kendi yazdığı 44 uygulama. Hepsi ücretsiz ve açık kaynak: dene, incele, çatalla.<br>
+👉 <a href="https://market.numexai.com.tr"><b>market.numexai.com.tr</b></a></td>
+<td width="50%"><a href="https://pedia.numexai.com.tr"><img src="assets/kart-pedia.png" alt="Numexpedia"></a>
+<b>📖 Numexpedia</b> — Bilgisayar, yapay zekâ ve yazılım; herkesin anlayacağı sade Türkçe ile. Özgür ve ücretsiz.<br>
+👉 <a href="https://pedia.numexai.com.tr"><b>pedia.numexai.com.tr</b></a></td>
+</tr>
+</table>
+
 ## 👨‍👩‍👧‍👦 Numex Ailesi
 
 | 🟢 Uygulamalar — *herkes* | 🔶 Geliştirici — *yazılımcı* | 🟢 Platform & Topluluk |
