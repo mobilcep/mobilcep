@@ -50,7 +50,10 @@ numex "koyu temalı bir yapılacaklar uygulaması yap"
 
 | | |
 |---|---|
-| 📚 [**numex_nedir**](https://github.com/mobilcep/numex_nedir) | Ekosistemin tam tanıtımı: ürünler, mimari, API, makaleler |
+| 📚 [**numex_nedir**](https://github.com/mobilcep/numex_nedir) | Ekosistemin tam tanıtımı: ürünler, mimari, makaleler |
+| 🧩 [**numex-codex**](https://github.com/mobilcep/numex-codex) | Türkçe kod ajanı ve 4 uzmanlı **Konsey** |
+| 🔌 [**numex-api**](https://github.com/mobilcep/numex-api) | API referansı, modeller, fiyatlar, örnek kodlar |
+| 🧰 [**numex-sdk**](https://github.com/mobilcep/numex-sdk) | Açık kaynak Node.js / TypeScript SDK |
 | 🩺 [**pcdoktoru**](https://github.com/mobilcep/pcdoktoru) | PC Doktoru sitesi ve serverless lisans altyapısı |
 | 🌐 [**numexai.com.tr/aile**](https://www.numexai.com.tr/aile) | Numex Ailesi haritası |
 
