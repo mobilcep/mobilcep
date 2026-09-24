@@ -46,6 +46,11 @@ kod ajanına, doğrulanmış testlerden açık kaynak uygulama marketine.
 <b>📖 Numexpedia</b> — Bilgisayar, yapay zekâ ve yazılım; herkesin anlayacağı sade Türkçe ile. Özgür ve ücretsiz.<br>
 👉 <a href="https://pedia.numexai.com.tr"><b>pedia.numexai.com.tr</b></a></td>
 </tr>
+<tr>
+<td colspan="2"><a href="https://pusulamx.com"><img src="assets/kart-pusulam.png" alt="Pusulam"></a>
+<b>🧭 Pusulam</b> — Esnaf ve KOBİ'ler için ön muhasebe, hızlı satış (POS), e-Fatura, çek-senet, Trendyol · Hepsiburada · N11 · Amazon entegrasyonu ve içinde Numex AI işletme asistanı. 7 gün ücretsiz.<br>
+👉 <a href="https://pusulamx.com"><b>pusulamx.com</b></a></td>
+</tr>
 </table>
 
 ## 👨‍👩‍👧‍👦 Numex Ailesi
@@ -57,7 +62,7 @@ kod ajanına, doğrulanmış testlerden açık kaynak uygulama marketine.
 | 🧩 [**Codex**](https://codex.numexai.com.tr) — Türkçe kod ajanı | 🔌 **API** — `numex-pro · fast · think · vision · code` | 📖 [**Numexpedia**](https://pedia.numexai.com.tr) — Türkçe ansiklopedi |
 | 🛍️ [**Market**](https://market.numexai.com.tr) — 44 açık kaynak uygulama | | 🎮 **Oyun Bahçesi** — 7'den 70'e |
 
-**Aynı ekipten:** 🧭 [Pusulam](https://pusulamx.com.tr) — ön muhasebe & POS · 🩺 [PC Doktoru](https://pcdoktoru.com.tr) — Windows bakım
+**Aynı ekipten:** 🧭 [Pusulam](https://pusulamx.com) — ön muhasebe & POS · 🩺 [PC Doktoru](https://pcdoktoru.com.tr) — Windows bakım
 
 ## ⚡ 30 saniyede dene
 
@@ -75,6 +80,11 @@ numex "koyu temalı bir yapılacaklar uygulaması yap"
 | 🧩 [**numex-codex**](https://github.com/mobilcep/numex-codex) | Türkçe kod ajanı ve 4 uzmanlı **Konsey** |
 | 🔌 [**numex-api**](https://github.com/mobilcep/numex-api) | API referansı, modeller, fiyatlar, örnek kodlar |
 | 🧰 [**numex-sdk**](https://github.com/mobilcep/numex-sdk) | Açık kaynak Node.js / TypeScript SDK |
+| 🎓 [**numex-okul**](https://github.com/mobilcep/numex-okul) | İki yapay zekâ ile doğrulanmış testler |
+| 📖 [**numex-pedia**](https://github.com/mobilcep/numex-pedia) | Özgür Türkçe ansiklopedi |
+| 📦 [**numex-hub**](https://github.com/mobilcep/numex-hub) · 🏗️ [**numex-forge**](https://github.com/mobilcep/numex-forge) | AI destekli depo yönetimi ve Türkçe Git sunucusu |
+| 🎮 [**numex-oyun-bahcesi**](https://github.com/mobilcep/numex-oyun-bahcesi) | 7'den 70'e oyunlar |
+| 🧭 [**pusulamx**](https://github.com/mobilcep/pusulamx) | Esnaf ve KOBİ'ler için ön muhasebe & POS |
 | 🩺 [**pcdoktoru**](https://github.com/mobilcep/pcdoktoru) | PC Doktoru sitesi ve serverless lisans altyapısı |
 | 🌐 [**numexai.com.tr/aile**](https://www.numexai.com.tr/aile) | Numex Ailesi haritası |
 
