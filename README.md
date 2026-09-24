@@ -2,7 +2,9 @@
 
 <img src="assets/numex-banner.png" alt="Numex — İnsanı önce koyan Türk yapay zekâsı" width="100%">
 
-### Merhaba 👋 Biz **Numex AI**'ız — Türkiye'nin yerli yapay zekâsı.
+### Merhaba 👋 Ben Numex AI'ın kurucusuyum — Türkiye'nin yerli yapay zekâsını geliştiriyoruz.
+
+> 🏢 **Numex AI'ın resmi GitHub sayfası artık → [@numexai](https://github.com/numexai)**. Ürün depoları orada; burada kişisel projelerim ve Numex'in doğduğu ilk prototipler duruyor.
 
 **Tek bir akıl, birçok kapı. Aracın değil, yoldaşın.**
 
@@ -76,19 +78,19 @@ numex "koyu temalı bir yapılacaklar uygulaması yap"
 
 | | |
 |---|---|
-| 📚 [**numex_nedir**](https://github.com/mobilcep/numex_nedir) | Ekosistemin tam tanıtımı: ürünler, mimari, makaleler |
-| ✨ [**numex**](https://github.com/mobilcep/numex) | Numex AI: sohbet, Detective Mode™, DeepView™, planlar |
-| ⌨️ [**numex-cli**](https://github.com/mobilcep/numex-cli) | Terminalde Numex: Türkçe kod ajanı |
-| 🛒 [**numex-market**](https://github.com/mobilcep/numex-market) | Yapay zekâ ajanları, eklentiler ve şablonlar pazarı |
-| 🧩 [**numex-codex**](https://github.com/mobilcep/numex-codex) | Türkçe kod ajanı ve 4 uzmanlı **Konsey** |
-| 🔌 [**numex-api**](https://github.com/mobilcep/numex-api) | API referansı, modeller, fiyatlar, örnek kodlar |
-| 🧰 [**numex-sdk**](https://github.com/mobilcep/numex-sdk) | Açık kaynak Node.js / TypeScript SDK |
-| 🎓 [**numex-okul**](https://github.com/mobilcep/numex-okul) | İki yapay zekâ ile doğrulanmış testler |
-| 📖 [**numex-pedia**](https://github.com/mobilcep/numex-pedia) | Özgür Türkçe ansiklopedi |
-| 📦 [**numex-hub**](https://github.com/mobilcep/numex-hub) · 🏗️ [**numex-forge**](https://github.com/mobilcep/numex-forge) | AI destekli depo yönetimi ve Türkçe Git sunucusu |
-| 🎮 [**numex-oyun-bahcesi**](https://github.com/mobilcep/numex-oyun-bahcesi) | 7'den 70'e oyunlar |
+| 📚 [**numex_nedir**](https://github.com/numexai/numex_nedir) | Ekosistemin tam tanıtımı: ürünler, mimari, makaleler |
+| ✨ [**numex**](https://github.com/numexai/numex) | Numex AI: sohbet, Detective Mode™, DeepView™, planlar |
+| ⌨️ [**numex-cli**](https://github.com/numexai/numex-cli) | Terminalde Numex: Türkçe kod ajanı |
+| 🛒 [**numex-market**](https://github.com/numexai/numex-market) | Yapay zekâ ajanları, eklentiler ve şablonlar pazarı |
+| 🧩 [**numex-codex**](https://github.com/numexai/numex-codex) | Türkçe kod ajanı ve 4 uzmanlı **Konsey** |
+| 🔌 [**numex-api**](https://github.com/numexai/numex-api) | API referansı, modeller, fiyatlar, örnek kodlar |
+| 🧰 [**numex-sdk**](https://github.com/numexai/numex-sdk) | Açık kaynak Node.js / TypeScript SDK |
+| 🎓 [**numex-okul**](https://github.com/numexai/numex-okul) | İki yapay zekâ ile doğrulanmış testler |
+| 📖 [**numex-pedia**](https://github.com/numexai/numex-pedia) | Özgür Türkçe ansiklopedi |
+| 📦 [**numex-hub**](https://github.com/numexai/numex-hub) · 🏗️ [**numex-forge**](https://github.com/numexai/numex-forge) | AI destekli depo yönetimi ve Türkçe Git sunucusu |
+| 🎮 [**numex-oyun-bahcesi**](https://github.com/numexai/numex-oyun-bahcesi) | 7'den 70'e oyunlar |
 | 🧭 [**pusulamx**](https://github.com/mobilcep/pusulamx) | Esnaf ve KOBİ'ler için ön muhasebe & POS |
-| 🕵️ [**detective-mode-ai**](https://github.com/mobilcep/detective-mode-ai) · 🤖 [**numex-bot**](https://github.com/mobilcep/numex-bot) | Numex'in doğduğu yer: 2024 konsepti ve ilk prototip |
+| 🕵️ [**detective-mode-ai**](https://github.com/numexai/detective-mode-ai) · 🤖 [**numex-bot**](https://github.com/mobilcep/numex-bot) | Numex'in doğduğu yer: 2024 konsepti ve ilk prototip |
 | 🩺 [**pcdoktoru**](https://github.com/mobilcep/pcdoktoru) | PC Doktoru sitesi ve serverless lisans altyapısı |
 | 🌐 [**numexai.com.tr/aile**](https://www.numexai.com.tr/aile) | Numex Ailesi haritası |
 
